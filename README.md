@@ -23,4 +23,3 @@ Here are some ideas to get you started:
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohebbi98&show_icons=true&theme=radical)
