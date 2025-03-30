@@ -1,6 +1,6 @@
 ### Hi there 👋
 <hr>
-
+I am a passionate and dedicated professional with expertise in programming, networking, cybersecurity, IoT, and cloud computing. With a focus on Python and .NET Core, I specialize in software development and delivering innovative solutions in advanced technologies and security. My diverse experience in various projects, teaching, and teamwork has enhanced my technical and interpersonal skills. I am seeking opportunities to leverage my knowledge and experience to create sustainable and innovative solutions in the field of information technology.
 <!--
 **mohebbi98/mohebbi98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
